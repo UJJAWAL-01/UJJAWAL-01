@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://UJJAWAL-01.github.io">Portfolio</a> ·
+  <a href="https://ujjawal-portfolio-delta.vercel.app/">Portfolio</a> ·
   <a href="mailto:ujjawal.patel@tamu.edu">Email</a> ·
   <a href="https://www.linkedin.com/in/ujjawal-patel-7508b8199/">LinkedIn</a>
 </p>
