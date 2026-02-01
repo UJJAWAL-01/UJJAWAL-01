@@ -25,11 +25,6 @@ clean data, and concise communication.
 `Python` · `SQL` · `Excel` · `Pandas` · `NumPy` · `Android` · `Figma`  
 `Kali Linux` · `Wireshark` · `Network Miner` · `Pine Script` · `Git`
 
-### Selected Case Studies & Projects
-- **SPESA — Finance Portal** · Expense tracking + EMI/SIP calculators (HTML/CSS/JS)  
-- **StopHunterVS** · Python signal for stop-hunt pattern detection using volume/liquidity zones  
-- **Consolidated Financial Planner** · LLM-assisted exploration of SIP, bonds, equities, PPF  
-- **MIC App** · Android app to redistribute unused medicines (social impact)
 
 ### Quick Stats
 <p>
