@@ -17,7 +17,7 @@ I bridge **business strategy** and **technology** to deliver measurable outcomes
 investment analytics, algorithmic trading research, and digital forensics. I value clear thinking,
 clean data, and concise communication.
 
-- 🎓 **MIS, Texas A&M (Mays)** — technical focus with business impact  
+- 🎓 **MIS, Texas A&M (Mays)** - technical focus with business impact  
 - 🧪 Interests: investment finance, quant research, detection engineering, product analytics  
 - 🔍 Open to **analyst / data / security** internships & projects
 
